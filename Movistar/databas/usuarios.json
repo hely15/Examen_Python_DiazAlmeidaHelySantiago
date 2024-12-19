@@ -1,0 +1,106 @@
+{
+    "planes": [
+        "plan1N",
+        {
+            "producto": "Plan Celular con 100 minutos en todo el pais y navegacion full ilimitada",
+            "valor": 60000
+        },
+        "plan2N",
+        {
+            "producto": "Plan hogar Internet y television full 500GB de internet y mas de 350 canales nacionales y internacionales",
+            "valor": 130000
+        },
+        "plan3N",
+        {
+            "producto": "Plan celular con 100 minutos en todo el pais y navegacion full + Plan hogar Internet y television 500GB de internt y mas de 350 canales",
+            "valor": 170000
+        },
+        "plan1R",
+        {
+            "producto": "Plan Celular con 100 minutos en todo el pais y navegacion full ilimitada",
+            "valor": 55000
+        },
+        "plan2R",
+        {
+            "producto": "Plan hogar Internet y television full 500GB de internet y mas de 350 canales nacionales y internacionales",
+            "valor": 125000
+        },
+        "plan3R",
+        {
+            "producto": "Plan celular con 100 minutos en todo el pais y navegacion full + Plan hogar Internet y television 500GB de internt y mas de 350 canales",
+            "valor": 165000
+        },
+        "plan1L",
+        {
+            "producto": "Plan Celular con 100 minutos en todo el pais y navegacion full ilimitada",
+            "valor": 50000
+        },
+        "plan2L",
+        {
+            "producto": "Plan hogar Internet y television full 500GB de internet y mas de 350 canales nacionales y internacionales",
+            "valor": 120000
+        },
+        "plan3L",
+        {
+            "producto": "Plan celular con 100 minutos en todo el pais y navegacion full + Plan hogar Internet y television 500GB de internt y mas de 350 canales",
+            "valor": 160000
+        },
+        "plan1P",
+        {
+            "producto": "Plan Celular con 100 minutos en todo el pais y navegacion full ilimitada",
+            "valor": 50000
+        },
+        "plan2P",
+        {
+            "producto": "Plan hogar Internet y television full 500GB de internet y mas de 350 canales nacionales y internacionales",
+            "valor": 120000
+        },
+        "plan3P",
+        {
+            "producto": "Plan celular con 100 minutos en todo el pais y navegacion full + Plan hogar Internet y television 500GB de internt y mas de 350 canales",
+            "valor": 160000
+        },
+        "plan1V",
+        {
+            "producto": "Plan Celular con 100 minutos en todo el pais y navegacion full ilimitada",
+            "valor": 50000
+        },
+        "plan2V",
+        {
+            "producto": "Plan hogar Internet y television full 500GB de internet y mas de 350 canales nacionales y internacionales",
+            "valor": 120000
+        },
+        "plan3V",
+        {
+            "producto": "Plan celular con 100 minutos en todo el pais y navegacion full + Plan hogar Internet y television 500GB de internt y mas de 350 canales",
+            "valor": 160000
+        }
+    ],
+    "12345678": {
+        "nombre": "Mateo doro martinez",
+        "numeroDocumento": 1,
+        "direccion": "Transversal oriental norte este\t",
+        "telefono": 3187471757,
+        "categoria": {
+            "nuevo": true,
+            "leal": false,
+            "platinium": false,
+            "vip": false
+        },
+        "serviciosDelCliente": {
+            "plan1N": true,
+            "plan2N": false,
+            "plan3N": false,
+            "plan1L": false,
+            "plan2L": false,
+            "plan3L": false,
+            "plan1P": false,
+            "plan2P": false,
+            "plan3P": false,
+            "plan1V": false,
+            "plan2V": false,
+            "plan3V": false
+        },
+        "pqr": {}
+    }
+}
