@@ -2,7 +2,7 @@
 
 
 
-### Explicacion del aplicativo
+### Objetivos del aplicativo
 
 El objetivo principal del proyecto es poder crear un sistema donde los trabajsdores de movistar puden tener un control de cada uno de sus clientes como informacion personal tambien los paquetes de tinene disponibles y los paquetes adquiridos por cada cliente tambien el sistema ofrece ofertas para los clientes dependiendo de su fidelidad y antiguedad el aplicativo tambien cuenta con opciones dirigidas a los clientes donde estos puden observar su informacion y donde pueden enviar PQR.
 
@@ -14,7 +14,7 @@ La instalacion del programa es sencillo solo se tiene que descargar la carpeta y
 
 
 
-### Explicacion del funcionamiento 
+### Acerca del funcionamiento 
 
 El programa  debe ser ejecutado en un editor de codigo desde su consola el programa es intuitivo para que su uso sea mas agil y entendible cuenta con menus practicos este programa esta echo para que una persona sin conocimientos previos en tecnologia pueda usarlo 
 
